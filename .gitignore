@@ -3,7 +3,11 @@
 .idea
 *.pptx
 01_materials/labs/bbc
+01_materials/labs/bbc/mlruns
+01_materials/labs/mlruns/
 01_materials/labs/ml-100k
+02_activities/experiment_tracking/
+01_materials/labs/postgres-data/
 01_materials/labs/ml-100k.zip
 01_materials/labs/VOCdevkit
 01_materials/labs/bbc-fulltext.zip
