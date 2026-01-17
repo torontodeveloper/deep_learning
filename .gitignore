@@ -4,6 +4,11 @@
 *.pptx
 01_materials/labs/bbc
 01_materials/labs/ml-100k
+01_materials/labs/mlruns
+01_materials/labs/mlruns/**
+01_materials//experiment_tracking/
+01_materials/labs/postgres-data/
+01_materials/labs/postgres-data/base
 01_materials/labs/ml-100k.zip
 01_materials/labs/VOCdevkit
 01_materials/labs/bbc-fulltext.zip
